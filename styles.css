@@ -2,3 +2,7 @@
 
 /* Navegación compartida con Blue Lab Studios */
 .trust a,.footer-links a{color:#93c5fd;text-decoration:underline;text-underline-offset:3px}.footer-links{display:flex;gap:18px;font-size:12px;flex-wrap:wrap}.footer-links a:hover,.trust a:hover{color:#fff}@media(max-width:480px){footer .footer-links{width:100%}}
+
+/* Blue acompaña la lectura sin acceder al contenido del documento. */
+.hero-art img{height:100%;object-fit:contain}
+.reader-blue-hint{display:flex;align-items:center;gap:12px;margin:4px 0 14px;color:#bdd0e9;font-size:14px;line-height:1.5}.reader-blue-hint img{width:72px;height:86px;object-fit:contain;flex:none}.reader-blue-hint p{margin:0}.reader-blue-hint strong,.reader-blue-hint span{display:block}.reader-blue-hint strong{color:#eff7ff}
